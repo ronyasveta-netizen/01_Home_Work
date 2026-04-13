@@ -4,9 +4,11 @@
 #include <iostream>
 using namespace std;
 
+
 int main()
 {    
 
+    cout << "git New " << endl;
     cout << "\t\t++ 1 ++\n\n";
     cout << "\n \tCities are blooming,\n \tthe blue sky is clearing,\n \tThe sun is shining gold from above\n \tAnd above the houses our dream:\n \tYellow and blue flags.\n \t\tAvtor: Oleksandr Oles\n \t\t\t1917 year\n\n";
     cout << "\t\t++ 2 ++\n\n";
